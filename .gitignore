@@ -8,26 +8,18 @@
 **/*.a
 **/*.so
 **/a.out
-logo.qoi
-conv
-conv.h
-LICENCE
-picture.ppm
-temp.rgb
-temp.rgba
+>/logo.qoi
+>/conv
+>/conv.h
+>/LICENCE
+>/picture.ppm
+>/temp.rgb
+>/temp.rgba
 /build
 /tests
 /code
 /conv
 .cache
-conv
-conv.h
-LICENSE
-logo.qoi
-picture.ppm
-temp.rgb
-temp.rgba
-node_modules
 
 DartConfiguration.tcl
 
